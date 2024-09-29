@@ -11,7 +11,7 @@ public class PemilihanHari14denganIf {
             System.out.print(angka + " is weekday");
         }
         else if (angka == 6 || angka == 7){
-            System.out.print(angka + "is weekend");
+            System.out.print(angka + " is weekend");
         }
         else {
             System.out.print(angka + " invalid number");
